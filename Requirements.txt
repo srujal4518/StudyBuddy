@@ -1,0 +1,22 @@
+# Core
+flask
+flask-cors
+flask-bcrypt
+flask-login
+
+# AI
+groq
+
+# Database
+pymongo
+
+# File Processing
+pandas
+openpyxl
+PyPDF2
+Pillow
+python-magic
+
+# Utilities
+python-dotenv
+werkzeug
